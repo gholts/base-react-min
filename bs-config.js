@@ -1,6 +1,6 @@
 module.exports = {
-  // browser: ['google chrome'],
-  browser: ['google chrome canary'],
+  browser: ['google chrome'],
+  // browser: ['google chrome canary'],
   port: 3005,
   // proxy: 'localhost:8005',
   // reloadDelay: 1000,

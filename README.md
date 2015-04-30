@@ -2,7 +2,7 @@ This is a **minimal React.js boilerplate with an auto build environment** which 
 
 Tip: Using [git-clone-init](https://github.com/jeffbski/git-clone-init) makes this very simple.
 
-`git-clone-init https://github.com/jeffbski/base-react-min.git myProjectName`
+`git-clone-init https://github.com/codewinds/base-react-min.git myProjectName`
 
 TODO: Replace this boilerplate with your project description
 
@@ -79,9 +79,9 @@ TODO: Add your description of why you created this
 If you have input or ideas or would like to get involved, you may:
 
  - contact me via twitter @jeffbski  - <http://twitter.com/jeffbski>
- - open an issue on github to begin a discussion - <https://github.com/jeffbski/PROJECT_NAME/issues>
- - fork the repo and send a pull request (ideally with tests) - <https://github.com/jeffbski/PROJECT_NAME>
+ - open an issue on github to begin a discussion - <https://github.com/codewinds/PROJECT_NAME/issues>
+ - fork the repo and send a pull request (ideally with tests) - <https://github.com/codewinds/PROJECT_NAME>
 
 ## License
 
- - [MIT license](http://github.com/jeffbski/PROJECT_NAME/raw/master/LICENSE)
+ - [MIT license](http://github.com/codewinds/PROJECT_NAME/raw/master/LICENSE)

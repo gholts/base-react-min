@@ -5,10 +5,10 @@
   "author": "Jeff Barczewski <info@codewinds.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jeffbski/PROJECT_NAME.git"
+    "url": "http://github.com/codewinds/PROJECT_NAME.git"
   },
   "bugs": {
-    "url": "http://github.com/jeffbski/PROJECT_NAME/issues"
+    "url": "http://github.com/codewinds/PROJECT_NAME/issues"
   },
   "license": "MIT",
   "browser": "src/browser.jsx",
