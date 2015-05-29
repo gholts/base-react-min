@@ -1,14 +1,14 @@
 {
-  "name": "PROJECT_NAME",
+  "name": "Basic Minimal React Boilerplate",
   "description": "",
-  "version": "0.0.2",
-  "author": "Jeff Barczewski <info@codewinds.com>",
+  "version": "0.0.1",
+  "author": "Graham Holtslander <menello@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/codewinds/PROJECT_NAME.git"
+    "url": "git@github.com:gholts/base-react-min.git"
   },
   "bugs": {
-    "url": "http://github.com/codewinds/PROJECT_NAME/issues"
+    "url": "https://github.com/gholts/base-react-min/issues"
   },
   "license": "MIT",
   "browser": "src/browser.jsx",
